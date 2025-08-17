@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ## 📂 Installation
 
 git clone https://github.com/yourusername/CrawZilla.git
+
 cd CrawZilla
 
 ## 🛠 Usage
