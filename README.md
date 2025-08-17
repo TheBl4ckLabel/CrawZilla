@@ -1,4 +1,7 @@
-# Common Crawl Domain URL Extractor
+# CrawZilla 
+
+Common Crawl Domain URL Extractor
+<img width="1011" height="384" alt="image" src="https://github.com/user-attachments/assets/b875fbb0-ea9c-48df-8f9a-826b148d0b3d" />
 
 This Python script fetches archived URLs for a given domain from the [Common Crawl](https://commoncrawl.org/) dataset.  
 It queries all available Common Crawl indexes and extracts unique URLs related to the specified domain.  
